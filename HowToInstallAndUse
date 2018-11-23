@@ -1,0 +1,5 @@
+to install : git clone https://github.com/ParzifalKali/EmailBruteforce.git
+
+cd EmailBruteforce
+
+to execute the program: python2 bruteforce_emails.py or python bruteforce_emails.py
